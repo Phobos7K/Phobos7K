@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill Shatalin (aKa @Phobos7K)
-- 👀 I’m interested in Data Science and will be more than happy to participate in any related project!
-- 🌱 I’m currently learning Python. My very first programming language was Java as it used to be a part of class I took in college. 
+- 👀 I’m learning Data Science.
+- 🌱 I program on Python.
 - 💞️ I’m looking to collaborate on any DS-related project.
 - 📫 You can reach me by sending the email to k.shatalin97@gmail.com
 
