@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kirill Shatalin (aKa @Phobos7K)
-- 🧪 Practitioning Data Analyst.
+- 🧪 Practitioning Data Scientist.
 - 🐍 Python all the day.
 
 
