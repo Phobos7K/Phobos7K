@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill Shatalin (aKa @Phobos7K)
-- 👀 I’m learning Data Science.
-- 🌱 I program on Python.
+- 🧪 Practitioning Data Analyst.
+- 🐍 Python all the day.
 
 
 
