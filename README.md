@@ -2,7 +2,7 @@
 
 ## [kanzlerlabs.com](https://kanzlerlabs.com)
 
-- **Description**: A personal website where I will be posting and hosting my projects.
+- **Description**: A personal website where I will be posting and also hosting my projects.
 - **Tech Stack**: Made with Python's Django framework, PostgreSQL as a database to hold post's data, HTML, and plain CSS to style the look.
 - **Focus**: Knowledge sharing and portfolio showcasing.
 
